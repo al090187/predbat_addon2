@@ -1,14 +1,14 @@
 ---
-name: Predbat
+name: Predbat_CP
 version: 1.5.2
-slug: predbat
+slug: predbat-cp
 description: Home Battery Prediction and Control
-url: https://github.com/springfall2008/predbat_addon
-codenotary: tdlj@tdlj.net
+url: https://github.com/al090187/predbat_addon2
+codenotary: al090187@gmail.com
 ingress: True
 ingress_port: 5052
 ingress_root: "/"
-panel_icon: mdi:bat
+panel_icon: mdi:alpha-c
 ports:
   8199/tcp: 8199
 arch:
